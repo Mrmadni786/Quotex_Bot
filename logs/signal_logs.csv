@@ -1,0 +1,3 @@
+timestamp,quotex_id,signal,result
+2025-08-19 20:00,USER123,BUY,WIN
+2025-08-19 20:01,USER456,SELL,LOSS

@@ -1,0 +1,6 @@
+{
+    "websocket_url": "wss://ws2.market-qx.pro/socket.io/?EIO=3&transport=websocket",
+    "api_fallback": [
+        "https://financialmodelingprep.com/api/v3/search?query=AA&apikey=062362ed7f304b44a0efd821e76a7b3b"
+    ]
+}
